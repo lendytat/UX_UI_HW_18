@@ -1,0 +1,29 @@
+.flexContainer{
+  display: flex;
+
+  flex-flow:row wrap;
+
+  justify-content: space-around;
+
+}
+
+<div class="flex-container">
+  <div>1
+
+  </div>
+  
+  <div>2
+
+  </div>
+
+  <div>3
+
+  </div>
+
+  
+</div>
+
+.myWork{
+  background-color: #155079;
+  display: flex;
+}
